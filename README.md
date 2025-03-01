@@ -67,6 +67,10 @@ python QR_Code_FruitGame.py
 - YOLOv8 Pose model from Ultralytics
 - qrcode library for QR code generation
 
+
+## Computer Specification
+- GPU Nvidia 3050 Ti (Please use this gpu and not the in-build gpu for smoother experience)
+
 ## Contribution
 Contributions are welcome! Follow these steps:
 1. Fork the repository.
